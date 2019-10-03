@@ -28,9 +28,14 @@ Fix everything up
 
 ### Interview
 Q1: How often do you take take the subway?
+
 A1: Everyday 2-3 times a day depending on the day and how much I am doing.
+
 Q2: What types of games do you like playing on the subway?
+
 A2: Simple games that I don't have to concentrate much on so I can listen to music at the same time and relax.
+
 Q3: When else are you bored and need a game to play?
+
 A3: On the weekend at times. Also when I'm on the way to a soccer game or waiting for Lucien to get on the bus (our soccer coach).
 
