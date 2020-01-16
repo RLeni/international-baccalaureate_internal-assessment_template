@@ -1,10 +1,10 @@
 # Defend Against the Roomba Offensive
 
 ## Problem Question
-How can I entertain Saad with a simple game including mechs while he is on the subway?
+How can I entertain Saad with a simple game including mechs (a humanoid robot often portrayed in movies and tv as suites with which their user can (in most cases) fight other mechs or monsters) and roombas (a small circular robot used in houses to vacuum and clean the floors) while he is on the subway?
 
 ### Project Description
-My client is Saad, he is a student at Brooklyn Friends High School. Sometimes on the subway he wants a simple game he can play while on his way and while listening to music. He won't be able to with this game but if it does really well maybe I can develop a mobile version. In the game you are in a mech suit and surrounded by roombas that want to destroy you. Before that happens you must destroy them by clicking on them. As the game goes on, more roombas appear and they move faster.
+My client is Saad, he is a student at Brooklyn Friends High School. Sometimes on the subway he wants a simple game he can play while on his way and while listening to music. He won't be able to with this game but if it does really well maybe I can develop a mobile version. In the game you are in a mech suit (which Saad find cool) and surrounded by roombas that want to destroy you. Before that happens you must destroy them by clicking on them. As the game goes on, more roombas appear and they move faster.
 
 ### Project Timeline
 
@@ -18,13 +18,16 @@ Start coding
 More coding
 
 #### Dec-Jan    (month 3-4)
-Prototype
+Complete Prototype
 
 #### Jan-Feb    (month 4-5)
 Test
 
 #### Feb-March  (month 5-6)
 Fix everything up
+
+### Scenario
+My client Saad is a fellow student here at Brooklyn Friends Highschool. He is one of my closest friends and for that reason easily accessable by phone. Because we attend the same school I also see him every school day. In my interview with Saad you will see that Saad is interested in a basic but entertaining and fun game that he can play when he is bored. I have alsp selected Saad as my advisor. Because he is both my client and advisor, I he can critic my game as it is create it to better mold it to his liking. Another reason is because he is very good at coding due to him aspiring to go into the field when he is older. The product will be a game called Defend Against the Roomba Offensive. In the game there will be multiple levels. In each level the character will be in a mech and have to destroy roombas (by clicking them) as they move to take your hearts to the edges of the screen. There will be 3 hearts in the middle of the screen that are stationary unless a roomba gets to the middle and transports it off the screen. When a robot picks up a heart its movents change. As the levels progress so does the speed of the roombas. If you lose all your hearts you loose and if your mech gets ran into by 3 roombas you also loose. You can move the mech. 
 
 ### Interview
 Q1: How often do you take take the subway?
